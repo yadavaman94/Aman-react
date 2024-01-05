@@ -1,0 +1,33 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is food hunt app by Aman Yadav",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yadavaman94/Aman-react.git"
+  },
+  "keywords": [
+    "react",
+    "food",
+    "hunt"
+  ],
+  "author": "Aman Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yadavaman94/Aman-react/issues"
+  },
+  "homepage": "https://github.com/yadavaman94/Aman-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
